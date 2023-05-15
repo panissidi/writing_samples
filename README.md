@@ -3,10 +3,11 @@
 This repository contains samples of my writing, including blog posts and task-based coding tutorials, or codelabs in Google lingo. 
 
 After I was assigned to write these samples, the workflow followed these steps:
-1. I partnered with a subject-matter expert (SME), who provided the code and a high-level walkthrough of the topic at hand through Google Meet. 
-1. I wrote the content in Google Docs, and tested it in the relevant environment, such as Android Studio for Android content. 
-1. I shared the content with the SME, an instructional designer, and a peer editor for review. 
-1. If necessary, I addressed the reviewers' edits. 
-1. I added the content to Google's version-control system, and shared it with all stakeholders for a final review. 
-1. If necessary, I addressed any further feedback from the reviewers.
-1. I published the content.
+1. Through Google Meet, I met with a subject-matter expert (SME), who provided the code and a high-level walkthrough of the topic at hand while I recorded the meeting. 
+1. In Google Docs, I wrote the content based on the SME's code and the recording of the SME's walkthrough.
+2. In the relevant environment, I tested the content. For example, I tested Core Web Vitals on a web page in Google Chrome.
+3. I shared the content with the SME, an instructional designer, and a peer editor for review. 
+4. If necessary, I addressed the reviewers' edits.
+5. In Google's version-control system, I converted the content to a Markdown file, staged it, and shared it with all stakeholders for a final review. 
+7. If necessary, I addressed any further feedback from the stakeholders.
+8. I published the content.
