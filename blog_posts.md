@@ -1,5 +1,3 @@
-**Payments**
-
 [Updated Google Pay button increases click-through rates](https://developers.googleblog.com/2021/05/updated-google-pay-button-increases-click-through-rates.html)
 
 [Updated Google Pay app offers more consumer touchpoints](https://developers.googleblog.com/2021/05/updated-google-pay-app-offers-more-consumer-touchpoints.html)
