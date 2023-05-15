@@ -1,6 +1,6 @@
 # About this repository
 
-This repository contains samples of my writing, including blog posts and task-based coding tutorials, the latter of which Google refers to as codelabs. 
+This repository contains samples of my writing, including blog posts and task-based coding tutorials, or codelabs in Google lingo. 
 
 After I was assigned to write these samples, the workflow followed these steps:
 1. I partnered with a subject-matter expert (SME), who provided the code and a high-level walkthrough of the topic at hand through Google Meet. 
