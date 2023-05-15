@@ -1,8 +1,4 @@
-**Google Maps Platform**
-
 [Visualize data with Google Maps Platform and deck.gl](https://developers.google.com/codelabs/maps-platform/maps-deck-gl)
-
-**Web**
 
 [Measure a web page's Core Web Vitals with the web-vitals library](https://developers.google.com/codelabs/chrome-web-vitals-js)
 
