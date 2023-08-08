@@ -1,8 +1,8 @@
 # About this repository
 
-This repository contains samples of my writing, including blog posts and task-based coding tutorials, or codelabs in Google lingo. 
+This repository contains samples of my writing, including blog posts and task-based coding tutorials. 
 
-After I was assigned to write these samples, the workflow followed these steps:
+After I was assigned to write these samples, I followed these steps:
 1. Through Google Meet, I met with a subject-matter expert (SME), who provided the code and a high-level walkthrough of the topic at hand while I recorded the meeting. 
 1. In Google Docs, I wrote the content based on the SME's code and the recording of the SME's walkthrough.
 1. In the relevant environment, I tested the content. For example, I tested Core Web Vitals on a web page in Google Chrome.
