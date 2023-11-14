@@ -1,6 +1,6 @@
 # About this repository
 
-This repository contains samples of my writing, including blog posts and task-based coding tutorials. 
+This repository contains samples of my writing. 
 
 For writing assignments, I follow these steps:
 1. I partner with a subject-matter expert (SME) from the product area (PA) at hand.
