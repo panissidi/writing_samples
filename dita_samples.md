@@ -7,3 +7,5 @@
 [Duckling growth and development](https://github.com/panissidi/Miscellaneous/blob/main/duckling_growth_and_development.dita)
 
 [Supporting marketing with technical content](https://github.com/panissidi/Miscellaneous/blob/main/supporting_marketing_with_technical_content.dita)
+
+[Feeding ducklings](https://github.com/panissidi/Miscellaneous/blob/main/feeding_ducklings.dita)
