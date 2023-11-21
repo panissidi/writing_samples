@@ -12,4 +12,4 @@
 
 [Creating a business case for your content strategy](https://github.com/panissidi/Miscellaneous/blob/main/creating_a_business_case_for_your_content_strategy.dita)
 
-[Developing a technical content strategy](https://github.com/panissidi/Miscellaneous/blob/main/developing_a_technical_content_strategy.dita)
+[Developing and implementing a technical content strategy](https://github.com/panissidi/Miscellaneous/blob/main/developing_a_technical_content_strategy.dita)
