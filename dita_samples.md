@@ -13,3 +13,5 @@
 [Creating a business case for your content strategy](https://github.com/panissidi/Miscellaneous/blob/main/creating_a_business_case_for_your_content_strategy.dita)
 
 [Developing and implementing a content strategy](https://github.com/panissidi/Miscellaneous/blob/main/developing_and_implementing_a_content_strategy.dita)
+
+[Managing change](https://github.com/panissidi/Miscellaneous/blob/main/managing_change.dita)
