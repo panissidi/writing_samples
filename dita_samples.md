@@ -15,3 +15,7 @@
 [Developing and implementing a content strategy](https://github.com/panissidi/Miscellaneous/blob/main/developing_and_implementing_a_content_strategy.dita)
 
 [Managing change](https://github.com/panissidi/Miscellaneous/blob/main/managing_change.dita)
+
+# References
+
+[`addEntry`](https://github.com/panissidi/Miscellaneous/blob/main/addEntry.dita)
