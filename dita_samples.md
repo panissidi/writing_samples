@@ -6,7 +6,7 @@
 
 [Increasing product visibility](https://github.com/panissidi/Miscellaneous/blob/main/increasing_product_visibility.dita)
 
-[Developing a technical content strategy](https://github.com/panissidi/Miscellaneous/blob/main/developing_a_technical_content_strategy.dita)
+[Developing and implementing a content strategy](https://github.com/panissidi/Miscellaneous/blob/main/developing_and_implementing_a_content_strategy.dita)
 
 # Tasks
 
