@@ -19,3 +19,5 @@
 # References
 
 [`addEntry`](https://github.com/panissidi/Miscellaneous/blob/main/addEntry.dita)
+
+[Content-strategy terms](https://github.com/panissidi/Miscellaneous/blob/main/g_content_strategy_terms.dita)
