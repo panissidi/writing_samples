@@ -25,3 +25,7 @@
 # Maps
 
 [Content strategy 101](https://github.com/panissidi/Miscellaneous/blob/main/_m_content_strategy_101.ditamap)
+
+# Bookmaps
+
+[Content strategy 101](https://github.com/panissidi/Miscellaneous/tree/main)
