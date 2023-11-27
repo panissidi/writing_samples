@@ -21,3 +21,7 @@
 [`addEntry`](https://github.com/panissidi/Miscellaneous/blob/main/addEntry.dita)
 
 [Content-strategy terms](https://github.com/panissidi/Miscellaneous/blob/main/g_content_strategy_terms.dita)
+
+# Maps
+
+[Content strategy 101](https://github.com/panissidi/Miscellaneous/blob/main/_m_content_strategy_101.ditamap)
