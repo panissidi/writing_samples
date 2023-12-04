@@ -24,6 +24,8 @@
 
 [Content strategy 101](https://github.com/panissidi/Miscellaneous/blob/main/_m_content_strategy_101.ditamap)
 
+[Content Strategy 101 PDF output](https://github.com/panissidi/miscellaneous/blob/main/content_strategy_101.pdf)
+
 # Bookmaps
 
 [Content strategy 101](https://github.com/panissidi/Miscellaneous/tree/main)
