@@ -28,4 +28,4 @@
 
 # Bookmaps
 
-[Content strategy 101] (https://github.com/panissidi/miscellaneous/blob/main/_b_content_strategy_101.ditamap)
+[Content strategy 101](https://github.com/panissidi/miscellaneous/blob/main/_b_content_strategy_101.ditamap)
