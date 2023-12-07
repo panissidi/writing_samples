@@ -24,7 +24,7 @@
 
 [Content strategy 101](https://github.com/panissidi/Miscellaneous/blob/main/_m_content_strategy_101.ditamap)
 
-[Content Strategy 101 PDF output generated with DITA Open Toolkit](https://github.com/panissidi/miscellaneous/blob/main/content_strategy_101.pdf)
+[Content Strategy 101 PDF via DITA Open Toolkit](https://github.com/panissidi/miscellaneous/blob/main/_m_content_strategy_101.pdf)
 
 # Bookmaps
 
